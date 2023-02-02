@@ -97,6 +97,15 @@
         justify-items: center;
         height: 2000px;
     }
+    .logo {
+        width: 900px;
+    }
+    .job {
+        font-size: 100px;
+    }
+    .logo-container {
+        margin-top: -200px;
+    }
     .services-grid {
         flex-direction: column;
         row-gap: 100px;

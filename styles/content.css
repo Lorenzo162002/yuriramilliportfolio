@@ -92,6 +92,9 @@
 
 
 @media (max-width: 1200px) {
+    body {
+        width: 1200px;
+    }
     .job-logo-container {
         grid-template-columns: 1fr;
         justify-items: center;

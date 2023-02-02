@@ -91,7 +91,7 @@
 
 
 
-@media (max-width: 750px) {
+@media (max-width: 1200px) {
     .job-logo-container {
         grid-template-columns: 1fr;
         justify-items: center;
@@ -113,7 +113,7 @@
     }
 }
 
-@media (min-width: 751px) and (max-width: 1010px) {
+/*@media (min-width: 751px) and (max-width: 1010px) {
     .grid-content {
         font-size: 2vw;
     }
@@ -124,3 +124,4 @@
         font-size: 21px;
     }
 }
+*/

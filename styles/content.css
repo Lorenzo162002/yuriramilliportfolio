@@ -95,6 +95,7 @@
     .job-logo-container {
         grid-template-columns: 1fr;
         justify-items: center;
+        width: 100%;
     }
     .services-grid {
         flex-direction: column;

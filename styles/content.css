@@ -114,4 +114,14 @@
     }
 }
 
+/*@media (min-width: 751px) and (max-width: 1010px) {
+    .grid-content {
+        font-size: 2vw;
+    }
+}
 
+@media (min-width: 1011px) {
+    .grid-content {
+        font-size: 21px;
+    }
+}*/
